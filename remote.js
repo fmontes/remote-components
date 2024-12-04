@@ -1,3 +1,3 @@
 export function RemoteComponent() {
-    return <div>Remote Component</div>;
+    return <div>Remote Component 123</div>;
 }
